@@ -1,4 +1,4 @@
-// TestConsoleCPlusPlus.cpp : This file contains the 'main' function. Program execution begins and ends there.
+﻿// TestConsoleCPlusPlus.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
 
 #include "pch.h"
@@ -6,6 +6,7 @@
 
 int main()
 {
+	// 테스트
     std::cout << "Hello World!\n"; 
 }
 
